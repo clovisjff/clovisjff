@@ -7,5 +7,7 @@
 
 <div>
   <a href="https://github.com/clovisjff/clovisjff">
-
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=clovisjff&show_icons=true&theme=dracula&included_all_comits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clovisjff&layout=compact&langs_count=16&theme=dracula"/>                         
+                           
 </div>
