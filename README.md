@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Clóvis Ferreira
 
 - 🔭 Hoje sou empresário e desenvolvedor FullStack
-- 🌱 Estudando: JAVA, MySql, HTML 5, CSS 3 e JS
+- 🌱 Estudando: JAVA, MySql, HTML 5, CSS 3, JS e SalesForce
 - 📫 Contate-me no email: clovisjff@gmail.com
 
 
